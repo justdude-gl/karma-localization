@@ -1,0 +1,2 @@
+# karma-localization
+Crowdin only
